@@ -1,0 +1,18 @@
+{
+  "name": "qw60-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บmawin1688✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บmawin1688",
+"หวยแทง24",
+"lottovip ดีไหม",
+"หวย24ชั่วโมง",
+"เข้าสู่ระบบ lottovip"
+],
+  "repository": "https://github.com/setteebet/qw60-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
